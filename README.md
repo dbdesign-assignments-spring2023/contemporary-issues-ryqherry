@@ -1,3 +1,12 @@
-# Contemporary Issues In Data
+# Standpoints Towards Data Privacy
+In this document, I discuss two articles presenting their views towards data privacy, a heated topic nowadays. Although the two authors' views are not completely opposite, they differ on their attitudes towards data collection and surveillance to some extent and also on their perspectives regarding this issue.
 
-Welcome! Your writing assignment will be in this file.  See [the instructions](./instructions.md) for more details.
+## Article 1
+In Orly Lobel's article [The Problem With Too Much Data Privacy](https://time.com/6224484/data-privacy-problem/), he demonstrates many situations where appropriate data collection and surveillance greatly contribute to the development of technology and the society as well. For instance, he takes health and medicine as an example: big data collected by artificial intelligence is allowing earlier and more accurate diagnosis, increased access to quality care, and discovery of new connections between data and disease to discover novel treatments. Therefore, only after sufficient data has been collected among diverse populations can we effectively realize the above benefits.
+
+From my perspective, this article raises many examples and conditions where appropriate data collection and surveillance can indeed benefit people's life. Overall, I agree with the points made in this article: data collection should not be prevented but safeguarded, shared, and utilized to benefit all.
+
+## Article 2
+In Zeynep Tufekci's article [We Need to Take Back Our Privacy](https://www.nytimes.com/2022/05/19/opinion/privacy-technology-data.html), she argues that data collection and manipulation should be severly limited. She futher gives several examples where data collection from big tech companies or apps brings harmful effects for the public. For instance, she presents an example of face recognition, where vast amount of human face data is applied to help detect a person's idetification, which she fear that given the ubiquity of cameras, it will soon be difficult to walk anywhere without being algorithmically recognized.
+
+However, from my point of view, Tufekci demonstrates a overly-pessimistic view towards data collection and surveillance. It is true that inappropriate and illegal data collection is detrimental to people's privacy; however, it is also unresponsible to overlook the benefits that people enjoy from technologies that was developed upon collection of vast amount of data.
